@@ -1,4 +1,4 @@
-package com.zzizily.tech.spring.boot.skeleton.graphql.demo;
+package com.zzizily.tech.spring.boot.skeleton.graphql;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
